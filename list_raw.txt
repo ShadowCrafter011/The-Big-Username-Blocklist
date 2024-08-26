@@ -285,7 +285,6 @@ secure
 security
 session
 sessions
-sysadmin
 system
 tablet
 trial
